@@ -1,0 +1,116 @@
+#my-title{
+  font-family: Verdana, Geneva, sans-serif;
+  color: rgb(30,206,206);
+}
+#profile-pict{
+  width: auto;
+  height: 150px;
+  display: block;
+
+  margin: 0 auto;
+  padding: 0 auto;
+}
+#motto{
+  text-align: center;
+  color: rgb(100,100,100);
+  margin: auto;
+  width: 18%;
+  border: 1px solid black;
+  padding: 10px;
+
+
+
+}
+
+#image-container{
+  background-image:         url("http://images.cdn3.stockunlimited.net/clipart/seamless-clouds-background_1608069.jpg");
+  width: auto;
+}
+#image-container h3{
+  text-align: center;
+}
+
+#navbar{
+  width: auto;
+  text-align: left;
+  font-size: 20px;
+
+}
+.text1{
+ text-align: center;
+}
+.experience {
+  background-image: url("https://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+  width: auto;
+  height: 600px;
+  background-size: cover;
+}
+.experience{
+  position: relative;
+  width: 100%;
+}
+.experience h1{
+  position: absolute;
+   top: 0px;
+   left: 0px;
+   width: 100%;
+}
+.experience #geering-up{
+  width: 100px;
+  height: 100px;
+}
+.experience #japadog{
+  width: 100px;
+  height: 100px;
+}
+.experience #gcr{
+  width: auto;
+  height: 100px;
+}
+.experience #cibc{
+  width: auto;
+  max-height: 100px;
+}
+.experience #halloween{
+  width: auto;
+  max-height: 100px;
+}
+.experience #ubc{
+  width: auto;
+  max-height: 200px;
+}
+.experience #richmondnightmarket{
+  width: 100px;
+  height: 100px;
+}
+
+
+#others{
+  background-image: url("http://wallpapercave.com/wp/EC49S3w.jpg");
+  width: auto;
+  background-size: cover;
+}
+
+
+#other-things{
+  background-image: url("http://wallpapercave.com/wp/CSIH4wH.jpg");
+}
+#about-me{
+  background-image: url("http://wallpapercave.com/wp/CSIH4wH.jpg");
+}
+#experiences{
+  background-image: url("http://wallpapercave.com/wp/CSIH4wH.jpg");
+}
+
+
+
+div {
+    margin: 0;
+    border: 0.01px solid white;
+    width: 100%;
+    height: 100%;
+}
+#contact-info{
+  text-align: center;
+}
+
