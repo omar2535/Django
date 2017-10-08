@@ -20,6 +20,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^music/', include('music.urls')),
     url(r'^webapp/', include('webapp.urls')),
-    url(r'^$', include('personal.urls')),
+    url(r'^', include('personal.urls')),
+    url(r'^myblog', include('myblog.urls')),
 
 ]
