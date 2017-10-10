@@ -1,3 +1,7 @@
-# Django-Test
+##Testapps using django
 
-Playground for testing using the Django framework
+urls that can be called after using 
+
+'''
+python manage.py runserver
+'''
