@@ -1,0 +1,25 @@
+body {
+    {%load statc %}
+    background-image: url("{%static "dicegame/img/background.jpg" %}");
+    background-color: #cccccc;
+
+}
+
+#title{
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+.heading{
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+   border-radius: 25px;
+
+   position:absolute;
+   bottom:0;
+   width:20%;
+   height:20px;   /* Height of the footer */
+}
