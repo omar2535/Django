@@ -2,7 +2,7 @@
 
 # 1. Clone the package then run server
 ```shell
-python maange.py runserver
+python manage.py runserver
 ```
 # 2. Links are as follows:
 
